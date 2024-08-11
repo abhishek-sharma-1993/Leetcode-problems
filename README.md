@@ -53,13 +53,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0206-reverse-linked-list) |
+| [0273-integer-to-english-words](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0273-integer-to-english-words) |
 ## String
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0058-length-of-last-word) |
+| [0273-integer-to-english-words](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0273-integer-to-english-words) |
 ## Math
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0870-magic-squares-in-grid) |
 ## Simulation
 |  |
