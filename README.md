@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0999-regions-cut-by-slashes) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,10 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0999-regions-cut-by-slashes) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0999-regions-cut-by-slashes) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Union Find
 |  |
 | ------- |
@@ -27,4 +30,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0999-regions-cut-by-slashes) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
