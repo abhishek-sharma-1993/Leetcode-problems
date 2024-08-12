@@ -3,11 +3,10 @@ class Solution {
         Stack<Character> stack = new Stack<>();
 
         int numDeletion = 0;
-        stack.push(s.charAt(0));
+        char[] charArr = s.toCharArray();
 
-        for(int i=1; i<s.length(); i++){
-            char ch = s.charAt(i);
-
+        for(char ch: charArr){
+            
             if(!stack.isEmpty() && stack.peek() == 'b' && ch == 'a'){
                 stack.pop();
                 numDeletion++;
