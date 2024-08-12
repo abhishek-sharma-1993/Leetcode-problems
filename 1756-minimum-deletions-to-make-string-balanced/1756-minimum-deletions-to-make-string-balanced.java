@@ -5,7 +5,8 @@ class Solution {
         int countB = 0;
         for(char ch: charArr){
             numDeletion += 'b'- ch;
-            numDeletion = Math.min(numDeletion, countB);
+            if(numDeletion>countB)
+                numDeletion = countB;
             countB += ch - 'a';
         }
 
