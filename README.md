@@ -146,5 +146,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Concurrency
 |  |
 | ------- |
+| [1186-building-h2o](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1186-building-h2o) |
 | [1203-print-in-order](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1203-print-in-order) |
 <!---LeetCode Topics End-->
