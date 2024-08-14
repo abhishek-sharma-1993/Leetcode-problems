@@ -1,9 +1,10 @@
 class H2O {
-    Semaphore sO = new Semaphore(0);
-    Semaphore sH = new Semaphore(2);
+    Semaphore sO;
+    Semaphore sH;
 
     public H2O() {
-        
+        sO = new Semaphore(0);
+        sH = new Semaphore(2);
     }
 
     public void hydrogen(Runnable releaseHydrogen) throws InterruptedException {
