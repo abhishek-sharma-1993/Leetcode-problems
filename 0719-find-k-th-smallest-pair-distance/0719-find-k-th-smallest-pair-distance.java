@@ -4,7 +4,7 @@ class Solution {
 
         int l = 0;
         int r = nums[nums.length-1]-nums[0];
-        
+
         while(l<r){
             int mid = l + (r-l)/2;
 
@@ -20,13 +20,12 @@ class Solution {
     }
 
     private int fingRankOfDiff(int[] nums, int diff){
-        int rank = 0;
+        int rank = 0, j = 0;
         for(int i=0; i<nums.length; i++){
-            for(int j=i+1; j<nums.length; j++){
-                int pairDiff = Math.abs(nums[i]-nums[j]);
-                if(pairDiff<=diff)
-                    rank++;
-            }
+            while(nums[i]-nums[j]>diff)
+                j++;
+            
+            rank += i-j;
         }
         return rank;
     }
