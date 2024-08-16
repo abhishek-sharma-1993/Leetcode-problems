@@ -10,9 +10,8 @@ class Solution {
                 int last = arrays.get(i).get(N-1);
 
                 ans = Math.max(ans, Math.max(Math.abs(last - min), Math.abs(max - first)));
-                
-                min = Math.min(min, first);
-                max = Math.max(max, last);
+                if(min>first) min = first;
+                if(max<last) max = last;
         }
 
         return ans;
