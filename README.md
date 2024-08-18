@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0999-regions-cut-by-slashes) |
 | [1511-count-number-of-teams](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1511-count-number-of-teams) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Hash Table
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [1511-count-number-of-teams](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Stack
 |  |
 | ------- |
