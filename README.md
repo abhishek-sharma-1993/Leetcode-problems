@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0273-integer-to-english-words) |
+| [0650-2-keys-keyboard](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0870-magic-squares-in-grid) |
 ## Simulation
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0650-2-keys-keyboard) |
 | [1511-count-number-of-teams](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2067-maximum-number-of-points-with-cost) |
