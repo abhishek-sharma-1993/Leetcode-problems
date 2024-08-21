@@ -27,20 +27,13 @@ class Solution {
 
     private String removeDuplicate(String s){
         StringBuilder str = new StringBuilder();
-
-        Deque<Character> stack = new ArrayDeque<>();
         int i = 0;
         while(i<s.length()){
             char ch = s.charAt(i);
-            while(!stack.isEmpty() && stack.getLast()==ch)
-                stack.removeLast();
-            
-            stack.addLast(ch);
-            i++;
+            str.append(ch);
+            while(i<s.length() && s.charAt(i) == ch)
+                i++;
         }
-
-        while(!stack.isEmpty())
-            str.append(stack.removeFirst());
         
         return str.toString();
     }
