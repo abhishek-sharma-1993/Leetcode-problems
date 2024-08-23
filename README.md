@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0040-combination-sum-ii) |
 | [0057-insert-interval](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0057-insert-interval) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0035-search-insert-position) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
