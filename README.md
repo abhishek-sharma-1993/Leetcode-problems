@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0067-add-binary) |
 | [0273-integer-to-english-words](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0273-integer-to-english-words) |
 | [0592-fraction-addition-and-subtraction](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0664-strange-printer) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0067-add-binary) |
 | [0264-ugly-number-ii](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0273-integer-to-english-words) |
 | [0592-fraction-addition-and-subtraction](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0592-fraction-addition-and-subtraction) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0067-add-binary) |
 | [0592-fraction-addition-and-subtraction](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0921-spiral-matrix-iii](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0921-spiral-matrix-iii) |
 ## Greedy
@@ -188,5 +191,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0067-add-binary) |
 | [0476-number-complement](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
