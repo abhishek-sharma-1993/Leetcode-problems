@@ -4,28 +4,43 @@ class Solution {
         int denominator = 1;
         char sign = '+';
         int i=0;
+
         while (i < input.length()) {
             char c = input.charAt(i);
+            char nextChar = input.charAt(i+1);
+
             if(c == '-' || c == '+'){
                 sign = c;
                 i++;
             }
-            int a = Integer.parseInt(String.valueOf(input.charAt(i)));
-            if(input.charAt(i+1) != '/'){
-                a = a*10+Integer.parseInt(String.valueOf(input.charAt(i+1)));
+
+            c = input.charAt(i);
+            nextChar = input.charAt(i+1);
+            int a = Character.getNumericValue(c);
+
+            if(nextChar != '/'){
+                a = a*10 + Character.getNumericValue(nextChar);
                 i++;
             }
             i += 2;
 
-            int b = Integer.parseInt(String.valueOf(input.charAt(i)));
-            if(i+1< input.length() && input.charAt(i+1) != '-' && input.charAt(i+1) != '+'){
-                b = b*10+Integer.parseInt(String.valueOf(input.charAt(i+1)));
-                i++;
+            c = input.charAt(i);
+            int b = Character.getNumericValue(c);
+
+            if(i+1 < input.length()){
+                nextChar = input.charAt(i+1);
+                
+                if(nextChar != '-' && nextChar != '+'){
+                    b = b*10 + Character.getNumericValue(nextChar);
+                    i++;
+                }
             }
+            
 
             denominator = lcm(denominator, b);
             int numerator = sign == '-' ? -1 * a: a;
             list.add(new int[]{numerator,b});
+
             i++;
         }
 
