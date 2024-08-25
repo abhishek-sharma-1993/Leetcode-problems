@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0040-combination-sum-ii) |
 | [0057-insert-interval](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0057-insert-interval) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0624-maximum-distance-in-arrays](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0624-maximum-distance-in-arrays) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Design
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0069-sqrtx) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
@@ -159,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
