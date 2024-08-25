@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0100-same-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0999-regions-cut-by-slashes](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Union Find
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Design
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
