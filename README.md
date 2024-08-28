@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0999-regions-cut-by-slashes) |
 | [1240-stone-game-ii](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1240-stone-game-ii) |
+| [1325-path-with-maximum-probability](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1511-count-number-of-teams](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1511-count-number-of-teams) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0948-sort-an-array) |
+| [1325-path-with-maximum-probability](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1325-path-with-maximum-probability) |
 ## Binary Tree
 |  |
 | ------- |
@@ -252,4 +254,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0948-sort-an-array) |
+## Graph
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1325-path-with-maximum-probability) |
+## Shortest Path
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
