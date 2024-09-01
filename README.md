@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2067-maximum-number-of-points-with-cost](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -272,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2803-modify-graph-edge-weights) |
+## Sliding Window
+|  |
+| ------- |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 <!---LeetCode Topics End-->
