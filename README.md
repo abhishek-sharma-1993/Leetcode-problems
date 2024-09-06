@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2727-number-of-senior-citizens) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/abhijeeiit/Leetcode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0999-regions-cut-by-slashes) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhijeeiit/Leetcode-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/abhijeeiit/Leetcode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0206-reverse-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/abhijeeiit/Leetcode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
