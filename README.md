@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0206-reverse-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/abhijeeiit/Leetcode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
