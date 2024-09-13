@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1333-sort-the-jumbled-numbers) |
+| [1435-xor-queries-of-a-subarray](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1511-count-number-of-teams](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1511-count-number-of-teams) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [1240-stone-game-ii](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1240-stone-game-ii) |
+| [1435-xor-queries-of-a-subarray](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Linked List
 |  |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0067-add-binary) |
 | [0476-number-complement](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0476-number-complement) |
+| [1435-xor-queries-of-a-subarray](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Merge Sort
 |  |
