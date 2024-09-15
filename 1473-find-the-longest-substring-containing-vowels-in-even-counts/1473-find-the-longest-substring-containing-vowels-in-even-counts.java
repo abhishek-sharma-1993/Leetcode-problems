@@ -1,23 +1,26 @@
 class Solution {
+
+    private static final int[] characterMap = new int[26];
+    static{
+        characterMap['a' - 'a'] = 1;
+        characterMap['e' - 'a'] = 2;
+        characterMap['i' - 'a'] = 4;
+        characterMap['o' - 'a'] = 8;
+        characterMap['u' - 'a'] = 16;
+    }
+        
     public int findTheLongestSubstring(String s) {
-        Map<Integer, Integer> map = new HashMap<>();
-        map.put(0,-1);
+        int[] map = new int[32];
+        Arrays.fill(map,-1);
         int ans = 0, bitmask = 0;
 
         for(int i=0; i<s.length(); i++){
-            char ch = s.charAt(i);
-            switch(ch){
-                case 'a' : bitmask ^= (1<<0);break;
-                case 'e' : bitmask ^= (1<<1);break;
-                case 'i' : bitmask ^= (1<<2);break;
-                case 'o' : bitmask ^= (1<<3);break;
-                case 'u' : bitmask ^= (1<<4);break;
-            }
+            bitmask ^= characterMap[s.charAt(i)-'a'];
 
-            if(map.containsKey(bitmask))
-                ans = Math.max(ans, i-map.get(bitmask));
+            if(map[bitmask] == -1 && bitmask != 0)
+                map[bitmask] = i;
             else
-                map.put(bitmask,i);
+                ans = Math.max(ans, i-map[bitmask]);
         }
         return ans;
     }
