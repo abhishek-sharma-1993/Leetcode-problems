@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [0539-minimum-time-difference](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0870-magic-squares-in-grid) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0067-add-binary) |
 | [0273-integer-to-english-words](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0664-strange-printer) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0069-sqrtx) |
 | [0264-ugly-number-ii](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0650-2-keys-keyboard) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0539-minimum-time-difference](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1333-sort-the-jumbled-numbers) |
