@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2411-spiral-matrix-iv](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2411-spiral-matrix-iv) |
+| [2502-sort-the-people](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2727-number-of-senior-citizens](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2727-number-of-senior-citizens) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/abhijeeiit/Leetcode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0999-regions-cut-by-slashes) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2502-sort-the-people](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhijeeiit/Leetcode-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/abhijeeiit/Leetcode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Depth-First Search
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2502-sort-the-people](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhijeeiit/Leetcode-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1333-sort-the-jumbled-numbers) |
+| [2502-sort-the-people](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhijeeiit/Leetcode-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
