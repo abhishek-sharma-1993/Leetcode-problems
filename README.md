@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0206-reverse-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0273-integer-to-english-words) |
 ## String
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0564-find-the-closest-palindrome) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0069-sqrtx) |
+| [0241-different-ways-to-add-parentheses](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0539-minimum-time-difference) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0664-strange-printer) |
@@ -336,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
