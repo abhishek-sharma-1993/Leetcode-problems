@@ -1,21 +1,19 @@
 class Solution {
     public boolean areSentencesSimilar(String sentence1, String sentence2) {
-        Deque<String> deque1 = new ArrayDeque<>(Arrays.asList(sentence1.split(" ")));
-        Deque<String> deque2 = new ArrayDeque<>(Arrays.asList(sentence2.split(" ")));
+        if(sentence1.length()>sentence2.length()) 
+            return areSentencesSimilar(sentence2,sentence1);
 
-        while(!deque1.isEmpty() && !deque2.isEmpty() 
-            && deque1.peek().equals(deque2.peek()))
-        {
-                deque1.poll();
-                deque2.poll();
+        String[] s1 = sentence1.split(" ");
+        String[] s2 = sentence2.split(" ");
+        
+        int start = 0, end1 = s1.length-1, end2 = s2.length-1;
+        while(start<=end1 && s1[start].equals(s2[start])){
+            start++;
         }
-
-        while(!deque1.isEmpty() && !deque2.isEmpty() 
-            && deque1.peekLast().equals(deque2.peekLast()))
-        {
-                deque1.pollLast();
-                deque2.pollLast();
+        while(end1>=0 && s1[end1].equals(s2[end2])){
+            end1--;
+            end2--;
         }
-        return (deque1.isEmpty() || deque2.isEmpty());
+        return start>end1;
     }
 }
