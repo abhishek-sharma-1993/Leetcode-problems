@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0999-regions-cut-by-slashes) |
+| [1002-maximum-width-ramp](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1002-maximum-width-ramp) |
 | [1240-stone-game-ii](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1325-path-with-maximum-probability) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -437,4 +439,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0432-all-oone-data-structure) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
