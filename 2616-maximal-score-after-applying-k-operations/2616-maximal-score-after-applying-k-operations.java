@@ -1,6 +1,6 @@
 class Solution {
     public long maxKelements(int[] nums, int k) {
-        Queue<Integer> heap = new PriorityQueue<>(Collections.reverseOrder());
+        Queue<Integer> heap = new PriorityQueue<>((a,b)->b-a);
         for(int num: nums){
             heap.add(num);
         }
