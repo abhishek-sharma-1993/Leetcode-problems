@@ -1,22 +1,21 @@
 class Solution {
     public String makeFancyString(String s) {
         StringBuilder ans = new StringBuilder();
-        int count = 1;
+        int count = 0;
         char[] chars = s.toCharArray();
-        char ch = chars[0];
-        ans.append(String.valueOf(ch));
+        char prev = chars[0];
 
-        for(int i=1; i<chars.length; i++){
-            if(chars[i] == ch){
+        for(char curr: chars){
+            if(curr == prev){
                 count++;
             }else{
                 count = 1;
             }
 
             if(count < 3){
-                ans.append(String.valueOf(chars[i]));
+                ans.append(String.valueOf(curr));
             }
-            ch = chars[i];
+            prev = curr;
         }
         return ans.toString();
     }
