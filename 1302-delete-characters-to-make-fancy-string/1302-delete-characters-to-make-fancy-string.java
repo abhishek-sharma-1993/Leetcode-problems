@@ -2,10 +2,9 @@ class Solution {
     public String makeFancyString(String s) {
         StringBuilder ans = new StringBuilder();
         int count = 0;
-        char[] chars = s.toCharArray();
-        char prev = chars[0];
+        char prev = s.charAt(0);
 
-        for(char curr: chars){
+        for(char curr: s.toCharArray()){
             if(curr == prev){
                 count++;
             }else{
@@ -13,7 +12,7 @@ class Solution {
             }
 
             if(count < 3){
-                ans.append(String.valueOf(curr));
+                ans.append(curr);
             }
             prev = curr;
         }
