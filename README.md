@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0664-strange-printer) |
+| [0812-rotate-string](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1197-parsing-a-boolean-expression) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
