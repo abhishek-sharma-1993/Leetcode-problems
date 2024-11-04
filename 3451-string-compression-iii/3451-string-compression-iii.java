@@ -9,7 +9,7 @@ class Solution {
             if(currChar == prev ){
                 length++;
             }else{
-                ans.append(length+"");
+                ans.append(String.valueOf(length));
                 ans.append(prev);
                 length = 1;
             }
@@ -21,7 +21,7 @@ class Solution {
             }
 
             if(i==word.length()-1){
-                ans.append(length+"");
+                ans.append(String.valueOf(length));
                 ans.append(currChar);
             }
             prev = currChar;
