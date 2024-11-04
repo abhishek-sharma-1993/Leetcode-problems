@@ -9,20 +9,20 @@ class Solution {
             if(currChar == prev ){
                 length++;
             }else{
-                ans.append(String.valueOf(length));
-                ans.append(prev);
+                ans.append(length).append(prev);
+                // ans.append(prev);
                 length = 1;
             }
 
             if(length > 9){
-                ans.append("9");
-                ans.append(prev);
+                ans.append("9").append(prev);
+                // ans.append(prev);
                 length = 1;
             }
 
             if(i==word.length()-1){
-                ans.append(String.valueOf(length));
-                ans.append(currChar);
+                ans.append(length).append(currChar);
+                // ans.append(currChar);
             }
             prev = currChar;
         }
