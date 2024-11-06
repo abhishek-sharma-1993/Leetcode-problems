@@ -1,28 +1,24 @@
 class Solution {
     public boolean canSortArray(int[] nums) {
         int[] sorted = Arrays.stream(nums).sorted().toArray();
-        int n = nums.length;
-        Map<Integer, Integer> map = new HashMap<>();
-        for(int num: nums){
-            int cnt = 0;
-            for(int bit=0; bit<32; bit++){
-                if( ((1<<bit) & num) > 0){
-                    cnt++;
-                }
-            }
-            map.put(num, cnt);
-        }
 
+        int n = nums.length;
         for(int i=1; i<n; i++){
+            if(nums[i-1]<=nums[i]) continue;
             int j=i;
             while(j>0){
-                if(map.get(nums[j]) == map.get(nums[j-1]) 
-                    && nums[j]<nums[j-1]){
+                if(nums[j]>nums[j-1]) {
+                    j--;
+                    continue;
+                }
+                else if(Integer.bitCount(nums[j]) == Integer.bitCount(nums[j-1])){
                         int tmp = nums[j-1];
                         nums[j-1] = nums[j];
                         nums[j] = tmp;
-                    }
-                j--;
+                        j--;
+                }else{
+                    return false;
+                }
             }
         }
         
@@ -30,7 +26,7 @@ class Solution {
             if(sorted[i] != nums[i])
                 return false;
         }
-        
+
         return true;
     }
 }
