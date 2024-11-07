@@ -1,11 +1,13 @@
 class Solution {
     public int largestCombination(int[] candidates) {
         int ans = 0, n=candidates.length;
-        for(int bit=0; bit<32; bit++){
+        int mx = Arrays.stream(candidates).max().getAsInt();
+        int m = Integer.SIZE - Integer.numberOfLeadingZeros(mx);
+
+        for(int bit=0; bit<m; bit++){
             int currSetBits = 0;
-            for(int i=0; i<candidates.length; i++){
-                if( ((1<<bit) & candidates[i]) > 0 ) 
-                    currSetBits++;
+            for(int i=0; i<n; i++){
+                currSetBits += (candidates[i]>>bit) & 1;
             }
             if(currSetBits == n) return n;
             ans = Math.max(ans, currSetBits);
