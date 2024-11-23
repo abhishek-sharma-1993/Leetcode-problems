@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1923-sentence-similarity-iii](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1940-maximum-xor-for-each-query) |
+| [1972-rotating-the-box](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1972-rotating-the-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2035-count-sub-islands) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0999-regions-cut-by-slashes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1972-rotating-the-box](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2411-spiral-matrix-iv) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1923-sentence-similarity-iii) |
+| [1972-rotating-the-box](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
