@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0731-my-calendar-ii) |
+| [0787-sliding-puzzle](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0890-lemonade-change) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0787-sliding-puzzle](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0787-sliding-puzzle) |
 | [0999-regions-cut-by-slashes](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0999-regions-cut-by-slashes) |
 | [1484-linked-list-in-binary-tree](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0999-regions-cut-by-slashes) |
