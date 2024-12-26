@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [0494-target-sum](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0264-ugly-number-ii) |
+| [0494-target-sum](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1240-stone-game-ii) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0040-combination-sum-ii) |
+| [0494-target-sum](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Two Pointers
