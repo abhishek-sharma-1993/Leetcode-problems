@@ -1,42 +1,53 @@
 class NumberContainers {
 
-    // Maps from number to set of indices and from index to number
-    private Map<Integer, TreeSet<Integer>> numberToIndices;
-    private Map<Integer, Integer> indexToNumbers;
-
-    // Constructor
     public NumberContainers() {
-        // Initialize the data structures
         numberToIndices = new HashMap<>();
         indexToNumbers = new HashMap<>();
     }
 
     public void change(int index, int number) {
-        // If index already has a number, remove it from the old number's index set
-        if (indexToNumbers.containsKey(index)) {
-            int previousNumber = indexToNumbers.get(index);
-            numberToIndices.get(previousNumber).remove(index);
-            if (numberToIndices.get(previousNumber).isEmpty()) {
-                numberToIndices.remove(previousNumber);
-            }
-        }
-        // Update the number and add the index to the new number's set
+        // Update index to number mapping
         indexToNumbers.put(index, number);
-        numberToIndices.putIfAbsent(number, new TreeSet<>());
-        numberToIndices.get(number).add(index);
+
+        // Add index to the min heap for this number
+        numberToIndices
+            .computeIfAbsent(number, k -> new PriorityQueue<>())
+            .add(index);
     }
 
     public int find(int number) {
-        // Return the smallest index for the given number, or -1 if not found
-        if (numberToIndices.containsKey(number)) {
-            return numberToIndices.get(number).first(); // Get the smallest index
+        // If number doesn't exist in our map
+        if (!numberToIndices.containsKey(number)) {
+            return -1;
         }
+
+        // Get min heap for this number
+        PriorityQueue<Integer> minHeap = numberToIndices.get(number);
+
+        // Keep checking top element until we find valid index
+        while (!minHeap.isEmpty()) {
+            int index = minHeap.peek();
+
+            // If index still maps to our target number, return it
+            if (indexToNumbers.get(index) == number) {
+                return index;
+            }
+
+            // Otherwise remove this stale index
+            minHeap.poll();
+        }
+
         return -1;
     }
+
+    // Map to store number -> min heap of indices
+    private Map<Integer, PriorityQueue<Integer>> numberToIndices;
+    // Map to store index -> number
+    private Map<Integer, Integer> indexToNumbers;
 }
 /**
  * Your NumberContainers object will be instantiated and called as such:
  * NumberContainers obj = new NumberContainers();
- * obj.change(index, number);
+ * obj.change(index,number);
  * int param_2 = obj.find(number);
  */
