@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2232-adding-spaces-to-a-string](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2155-find-missing-observations) |
 | [2232-adding-spaces-to-a-string](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2411-spiral-matrix-iv](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2411-spiral-matrix-iv) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -678,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2699-count-the-number-of-fair-pairs) |
