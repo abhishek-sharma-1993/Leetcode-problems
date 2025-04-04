@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0999-regions-cut-by-slashes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1160-letter-tile-possibilities) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1256-rank-transform-of-an-array](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0999-regions-cut-by-slashes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0854-making-a-large-island) |
 | [0999-regions-cut-by-slashes](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0999-regions-cut-by-slashes) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1558-course-schedule-iv) |
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -648,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/abhijeeiit/Leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/abhijeeiit/Leetcode-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
