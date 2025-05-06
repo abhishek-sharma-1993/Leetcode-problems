@@ -7,6 +7,7 @@ class Solution {
                 jumps++;
                 currentEnd = farthest;
             }
+            if(currentEnd == nums.length -1) return jumps;
         }
         return jumps;
     }
