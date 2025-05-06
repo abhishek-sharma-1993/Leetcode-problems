@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0057-insert-interval](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0057-insert-interval) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0179-largest-number](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0179-largest-number) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -691,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/abhijeeiit/Leetcode-problems/tree/master/0368-largest-divisible-subset) |
